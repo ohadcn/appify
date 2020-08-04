@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">checkomat</string>
+    <string name="app_url" translatable="false">https://checkomat-front.web.app/</string>
+    <string name="app_domain" translatable="false">checkomat-front.web.app</string>
+    <string name="app_scheme" translatable="false">checkomat</string>
+    <string name="referrer_scehme" translatable="false">join/%s?token=%s</string>
+</resources>
